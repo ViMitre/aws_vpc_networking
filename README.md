@@ -5,7 +5,7 @@
 #### Network Access Control List (NACLs)
 ##### Security Groups
 
-![]()
+![](https://github.com/ViMitre/aws_vpc_networking/blob/main/img/AWS_deployment_networking_security.png)
 
 - What is VPC
 - AWS isolated virtual network<br>
