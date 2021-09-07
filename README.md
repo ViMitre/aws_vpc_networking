@@ -70,10 +70,10 @@ I will be using `10.0.0.0/16` for my IPv4 CIDR<br>
 4. `Auto-assign public IP`: Enable for the public, disable for private
 ### Step 7: Create a security group for our app
 #### App inbound:<br>
-![img](img/sg_app_inbound.png)
+![img](https://github.com/ViMitre/aws_vpc_networking/blob/main/img/sg_app_inbound.PNG)
 App outbound: allow all traffic to all destinations<br>
 #### DB inbound:<br>
-![img](img/sg_db_inbound.png)
+![img](https://github.com/ViMitre/aws_vpc_networking/blob/main/img/sg_db_inbound.PNG)
 *Note: the app's private IP will change after restart*
 DB outbound: allow all traffic to all destinations<br>
 ### Step 8: Connect to the app instance
